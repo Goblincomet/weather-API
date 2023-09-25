@@ -82,7 +82,7 @@ To clone and run this application locally, you'll need [Git](https://git-scm.com
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/elminhoemmanuel/mayweather.git
+$ git clone https://github.com/Goblincomet/weather-API
 
 # Install dependencies
 $ npm install
