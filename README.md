@@ -8,9 +8,6 @@
 
 <div align="center">
   <h3>
-    <a href="https://www.loom.com/share/e96be82c366f4a908e9c1301b2bdc205">
-      Demo
-    </a>
     <span> | </span>
     <a href="https://mayweather.vercel.app/">
       Solution
